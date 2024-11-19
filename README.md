@@ -23,12 +23,6 @@ Developed by:SANDHIYA R
 RegisterNumber:212223240146
 */
 ```
-```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by:KRITHIGA U 
-RegisterNumber:  212223240076
-*/
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers (1) (1).csv")
